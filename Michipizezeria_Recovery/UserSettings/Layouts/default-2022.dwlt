@@ -456,10 +456,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 70}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 34faffff
+      m_ExpandedIDs: 30fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -889,11 +889,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.039724573, y: 0.96013474, z: -0.18664467, w: 0.20433763}
     speed: 2
-    m_Value: {x: 0.03916394, y: 0.9607306, z: -0.18676051, w: 0.20145361}
+    m_Value: {x: 0.039724573, y: 0.96013474, z: -0.18664467, w: 0.20433763}
   m_Size:
     m_Target: 1.293912
     speed: 2
-    m_Value: 1.2381934
+    m_Value: 1.293912
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1061,7 +1061,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/char
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1069,30 +1069,30 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/char
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\6toSemestre\3_Project_AAA\P4\La-salvacion-de-los-michis\Michipizezeria_Recovery
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: da5c0000
-    m_LastClickedID: 23770
-    m_ExpandedIDs: 00000000521e00000c5b000000ca9a3b
+    m_SelectedIDs: 005b0000
+    m_LastClickedID: 23296
+    m_ExpandedIDs: 00000000fe5a0000005b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Shaders
-      m_OriginalName: Shaders
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 7770
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
@@ -1106,7 +1106,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000521e00000c5b0000
+    m_ExpandedIDs: 00000000fe5a0000005b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
